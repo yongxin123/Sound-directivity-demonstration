@@ -17,4 +17,5 @@ git clone https://github.com/yongxin123/Sound-directivity-demonstration.git
 
 
 The sound pressure level(SPL) of 7×7 ultrasonic array is compared with the concave spherical array. The measurement of SPL indicate the 7x7 ultrasonic array demomstrate better sound directivity performance.
-![Sound directivity comparison](https://user-images.githubusercontent.com/27756273/232422396-fd2167f3-f610-4ade-8aab-20dad12809c2.jpg)
+
+![Sound directivity comparison](https://user-images.githubusercontent.com/27756273/233679613-994dcd53-fdd2-4921-be79-33a477e964f1.jpg)
