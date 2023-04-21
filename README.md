@@ -6,7 +6,7 @@ The sound directivity of 7×7 ultrasonic array and concave spherical array are d
 
 ![音频位置图](https://user-images.githubusercontent.com/27756273/233673468-6863f9ac-a4fe-481c-956a-78274572a6d6.jpg)
 
-
+![下载界面](https://user-images.githubusercontent.com/27756273/233679437-5295ee46-a5e9-4d34-8b8b-24a3a7d8ee54.jpg)
 
 Download "Sound directivity demonstration.mp4" video:
 
