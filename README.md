@@ -4,7 +4,8 @@ The project is configured and supported in part by the HARBIN INSTITUTE OF TECHN
 # Sound-directivity-demonstration
 The sound directivity of 7×7 ultrasonic array and concave spherical array are demonstrated in this site with original inputs of audible Chinese music. The experiments show that 7×7 has the better sound directivity than the concave spherical  arrays of suppressing sound in non-main beam angles. 
 
-![HI_}2ACGU{XV0`TK3NXY }K](https://user-images.githubusercontent.com/27756273/232489915-2e2cd4a0-fb15-4506-a822-47d90cfdc099.png)
+![音频位置图](https://user-images.githubusercontent.com/27756273/233673468-6863f9ac-a4fe-481c-956a-78274572a6d6.jpg)
+
 
 
 Download "Sound directivity demonstration.mp4" video:
