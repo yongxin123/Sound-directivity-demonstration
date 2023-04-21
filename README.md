@@ -11,7 +11,6 @@ Download "Sound directivity demonstration.mp4" video:
 
 git clone https://github.com/yongxin123/Sound-directivity-demonstration.git
 
-![Gitclonedfile](https://user-images.githubusercontent.com/27756273/232490067-b052393c-1525-49d4-9094-12955321e7ae.jpg)
 
 ![方阵与球阵SPL图指向性视频截图](https://user-images.githubusercontent.com/27756273/232488909-e130d068-9334-49bc-86cb-140ec8063244.jpg)
 
